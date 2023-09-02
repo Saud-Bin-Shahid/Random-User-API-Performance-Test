@@ -8,7 +8,7 @@ A random API (https://random-data-api.com/api/v2/users) is used for load testing
 2. Finding out the Bottleneck/Stress test point of the system.
 
 ## Pre-requisite
-- Install jdk 8 or any LTS version
+- Install jdk 11 or any LTS version
 - Download and extract Apache Jmeter latest version
 - Configure JAVA_HOME and JMETER_HOME in system environment variable
 
